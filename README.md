@@ -11,6 +11,7 @@ Using Web Sockets, I was able to create a basic web application where users ente
 - [React](https://reactjs.org/)
 - [Express](https://expressjs.com/)
 - [socket.io](https://socket.io/)
+- [Sass](https://sass-lang.com/)
 
 ## Installation
 
