@@ -4,6 +4,8 @@
 
 ## About this Project
 
+! currently refactoring using TypeScript
+
 Using Web Sockets, I was able to create a basic web application where users enter a username and a room number and are able to join rooms and chat with friends.
 
 ### Tech Used
